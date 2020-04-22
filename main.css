@@ -1,0 +1,35 @@
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+#naslov {
+  color: yellowgreen;
+  font-size: 3rem;
+
+  text-transform: lowercase;
+}
+div {
+  text-transform: uppercase;
+
+  background: yellowgreen;
+}
+
+* {
+  margin: 0;
+}
+.navbar {
+  background: red;
+  height: 100px;
+  color: wheat;
+  font-size: 3rem;
+}
+
+.banner {
+  background: blue;
+  min-height: calc (100vh - 100px);
+  color: aquamarine;
+}
